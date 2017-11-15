@@ -48,7 +48,7 @@ Command | Description | Options
 `git add <filename>` | Add file contents to the index |
 `git reset` | Reset current HEAD to the specified state | `HEAD <filename` - unstage file
 `git branch` | List, create, or delete branches | `<branch-name>` - switch to branch<br>`-d <branch-name>` - delete branch
-`git merge <branch1> <branch2>` | Join two or more development histories together | `--abort`
+`git merge <branch1> <branch2>` | Join two or more development histories together | `--abort` - abort merge if there are unexpected conflicts
 `git show <commit-ID>` | Show various types of objects |
 
 <h2>Lesson 3 - Using GitHub to Collaborate</h2>
