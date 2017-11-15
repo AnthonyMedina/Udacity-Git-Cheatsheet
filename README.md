@@ -16,7 +16,9 @@ Command | Description | Options
 `git add` |  |
 `git reset` |  |
 
-
 <h2>Lesson 2</h2>
+
+Command | Description | Options
+------------ | ------------- | -------------
 
 <h2>Lesson 3</h2>
