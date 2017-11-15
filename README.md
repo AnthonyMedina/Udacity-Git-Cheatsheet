@@ -23,8 +23,8 @@ If you already have a file in your home directory named `.bash_profile`, copy th
 <h5>Making Git configurations</h5>
 Run the following Git configuration commands. The first one will need to be modified if you are using a text editor other than Sublime, or if Sublime is installed in another location for you. See this page for the correct command for a couple of other popular text editors. For any other editor, you'll need to enter the command you use to launch that editor from the terminal.
 
->`git config --global core.editor "atom --wait"`
->`git config --global push.default upstream`
+>`git config --global core.editor "atom --wait"`<br>
+>`git config --global push.default upstream`<br>
 >`git config --global merge.conflictstyle diff3`
 
 <h2>Lesson 1 - Navigating a Commit History</h2>
