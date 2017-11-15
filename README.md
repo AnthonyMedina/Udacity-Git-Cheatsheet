@@ -22,3 +22,6 @@ Command | Description | Options
 `git reset` |  |
 
 <h2>Lesson 3</h2>
+
+Command | Description | Options
+------------ | ------------- | -------------
