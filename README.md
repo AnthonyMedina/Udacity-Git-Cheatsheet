@@ -7,14 +7,15 @@ This is a "cheatsheet" of all the Git commands used in the Udacity course:
 
 Command | Description | Options
 ------------ | ------------- | -------------
- |  |
- |  |
- |  |
- |  |
- |  |
- |  |
- |  |
- |  |
+`git clone` |  |
+`git log` |  |
+`git diff` |  |
+`git checkout` |  |
+`git init` |  |
+`git status` |  |
+`git add` |  |
+`git reset` |  |
+
 
 <h2>Lesson 2</h2>
 
