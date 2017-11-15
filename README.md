@@ -43,13 +43,13 @@ Command | Description | Options
 
 Command | Description | Options
 ------------ | ------------- | -------------
-`git init` |  |
-`git status` |  |
-`git add` |  |
-`git reset` |  |
-`git branch` |  |
-`git merge` |  |
-`git show` |  |
+`git init` | Create an empty Git repository |
+`git status` | Show the working tree status |
+`git add` | Add file contents to the index |
+`git reset` | Reset current HEAD to the specified state |
+`git branch` | List, create, or delete branches |
+`git merge` | Join two or more development histories together |
+`git show` | Show various types of objects |
 
 <h2>Lesson 3 - Using GitHub to Collaborate</h2>
 
