@@ -28,3 +28,7 @@ Command | Description | Options
 
 Command | Description | Options
 ------------ | ------------- | -------------
+`git push` |  |
+`git pull` |  |
+`git remote` |  |
+`git fetch` |  |
