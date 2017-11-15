@@ -20,6 +20,9 @@ Command | Description | Options
 `git status` |  |
 `git add` |  |
 `git reset` |  |
+`git branch` |  |
+`git merge` |  |
+`git show` |  |
 
 <h2>Lesson 3 - Using GitHub to Collaborate</h2>
 
