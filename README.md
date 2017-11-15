@@ -7,11 +7,11 @@ This is a "cheatsheet" of all the Git commands used in the Udacity course:
 
 Command | Description | Options
 ------------ | ------------- | -------------
-`cd <directory path>` | "change directory" - changes the folder you are operating in. | 
-`mkdir <folder name>` | "make directory" - creates a new folder. |
-`pwd` | "print working directory" - displays the file path of the folder you are working in. |
-`ls` | "list" - lists files and folders in the folder you are working in |
-`scp` | "secure copy" - |
+`cd <directory path>` | "change directory" -<br>changes the folder you are operating in. | `~` - to home directory ``
+`mkdir <folder name>` | "make directory" -<br>creates a new folder. |
+`pwd` | "print working directory" -<br>displays the file path of the folder you are working in. |
+`ls` | "list" -<br>lists files and folders in the folder you are working in |
+`scp` | "secure copy" -<br>|
 `touch <filename>` | creates a new file |
 
 <h2>Lesson 1 - Navigating a Commit History</h2>
