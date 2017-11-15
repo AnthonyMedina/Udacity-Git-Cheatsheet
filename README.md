@@ -56,7 +56,7 @@ Command | Description | Options
 
 Command | Description | Options
 ------------ | ------------- | -------------
-`git remote` |  |
-`git push` |  |
-`git pull` |  |
-`git fetch` |  |
+`git remote` | Manage set of tracked repositories |
+`git push` | Fetch from and integrate with another repository or a local branch |
+`git pull` | Update remote refs along with associated objects |
+`git fetch` | Download objects and refs from another repository |
