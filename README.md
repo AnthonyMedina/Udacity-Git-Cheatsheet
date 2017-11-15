@@ -46,6 +46,7 @@ Command | Description | Options
 `git init` | Create an empty Git repository |
 `git status` | Show the working tree status |
 `git add <filename>` | Add file contents to the index |
+`git commit` | Record changes to the repository | `-m` - add message in terminal<br>`-a` - automatically stage files that have been modified and deleted
 `git reset` | Reset current HEAD to the specified state | `HEAD <filename` - unstage file
 `git branch` | List, create, or delete branches | `<branch-name>` - switch to branch<br>`-d <branch-name>` - delete branch
 `git merge <branch1> <branch2>` | Join two or more development histories together | `--abort` - abort merge if there are unexpected conflicts
