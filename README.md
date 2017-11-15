@@ -34,8 +34,8 @@ See [this page](https://help.github.com/articles/associating-text-editors-with-g
 Command | Description | Options
 ------------ | ------------- | -------------
 `git help` | Prints the synopsis and a list of the most commonly used commands | `-a` prints all commands
-`git clone <repo url>` | Clone a repository into a new directory | `<directory>` - create a new folder for the clone<br>
-`git log` | Show commit history | `<--oneline>` display on one line- <br>`<--graph>` - show a graph of the branch, merge history<br>`-<n>` - show `n` commits
+`git clone <repo url>` | Clone a repository into a new directory | `directory` - create a new folder for the clone<br>
+`git log` | Show commit history | `--oneline` display on one line- <br>`--graph` - show a graph of the branch, merge history<br>`-<n>` - show `n` commits
 `git diff` | Show changes between commits, commit and working tree, etc |
 `git checkout` | Switch branches or restore working tree files |
 
