@@ -33,7 +33,7 @@ See [this page](https://help.github.com/articles/associating-text-editors-with-g
 
 Command | Description | Options
 ------------ | ------------- | -------------
-`git clone` | Clone a repository into a new directory |
+`git clone <repo url>` | Clone a repository into a new directory | `<directory>` - create a new folder for the clone<br>
 `git log` | Show commit history |
 `git diff` | Show changes between commits, commit and working tree, etc |
 `git checkout` | Switch branches or restore working tree files |
