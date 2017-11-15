@@ -11,14 +11,14 @@ Command | Description | Options
 `git log` |  |
 `git diff` |  |
 `git checkout` |  |
-`git init` |  |
-`git status` |  |
-`git add` |  |
-`git reset` |  |
 
 <h2>Lesson 2</h2>
 
 Command | Description | Options
 ------------ | ------------- | -------------
+`git init` |  |
+`git status` |  |
+`git add` |  |
+`git reset` |  |
 
 <h2>Lesson 3</h2>
