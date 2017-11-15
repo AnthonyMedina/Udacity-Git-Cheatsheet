@@ -37,7 +37,7 @@ Command | Description | Options
 `git clone <repo-url>` | Clone a repository into a new directory | `directory` - create a new folder for the clone<br>
 `git log` | Show commit history | `--oneline` - display on one line<br>`--graph` - show a graph of the branch, merge history<br>`-<n>` - show `n` commits
 `git diff` | Show changes between commits, commit and working tree, etc | (with no arguments) - view the changes you made relative to the index<br>`--staged` - view the changes you staged for the next commit relative to the latest commit<br>`<commit1> <commit2>` - compare two commits
-`git checkout <branch-name>` | Switch branches or restore working tree files | `-b <new-branch>` - create and checkout new branch
+`git checkout <branch-name>` | Switch branches or restore working tree files | `-b <new-branch-name>` - create and switch to new branch
 
 <h2>Lesson 2 - Creating and Modifying a Repository</h2>
 
