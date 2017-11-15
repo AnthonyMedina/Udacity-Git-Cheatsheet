@@ -56,7 +56,7 @@ Command | Description | Options
 
 Command | Description | Options
 ------------ | ------------- | -------------
+`git remote` |  |
 `git push` |  |
 `git pull` |  |
-`git remote` |  |
 `git fetch` |  |
