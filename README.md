@@ -5,6 +5,17 @@ This is a "cheatsheet" of all the Git commands used in the Udacity course:
 
 <h2>Lesson 1</h2>
 
+Command | Description | Options
+------------ | ------------- | -------------
+ |  |
+ |  |
+ |  |
+ |  |
+ |  |
+ |  |
+ |  |
+ |  |
+
 <h2>Lesson 2</h2>
 
 <h2>Lesson 3</h2>
