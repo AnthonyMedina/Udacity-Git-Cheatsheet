@@ -60,7 +60,7 @@ Check that Git and the osxkeychain helper are already installed:
 >`git credential-osxkeychain`
 
 Tell Git to use osxkeychain helper using the global credential.helper config:
->g`it config --global credential.helper osxkeychain`
+>`git config --global credential.helper osxkeychain`
 
 Command | Description | Options
 ------------ | ------------- | -------------
