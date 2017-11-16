@@ -54,6 +54,14 @@ Command | Description | Options
 
 <h2>Lesson 3 - Using GitHub to Collaborate</h2>
 
+<h5>Set up Password Caching</h5>
+
+Check that Git and the osxkeychain helper are already installed:
+>`git credential-osxkeychain`
+
+Tell Git to use osxkeychain helper using the global credential.helper config:
+>g`it config --global credential.helper osxkeychain`
+
 Command | Description | Options
 ------------ | ------------- | -------------
 `git remote` | Manage set of tracked repositories | `add <url>` - add new remote
