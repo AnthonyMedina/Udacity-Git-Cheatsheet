@@ -56,7 +56,7 @@ Command | Description | Options
 
 Command | Description | Options
 ------------ | ------------- | -------------
-`git remote` | Manage set of tracked repositories |
+`git remote` | Manage set of tracked repositories | `add <url>` - add new remote
 `git push <remote> <branch>` | Fetch from and integrate with another repository or a local branch |
 `git pull <remote> <branch>` | Update remote refs along with associated objects |
 `git fetch` | Download objects and refs from another repository |
