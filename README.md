@@ -12,6 +12,7 @@ Command | Description | Options
 `pwd` | "print working directory" -<br>displays the file path of the folder you are working in. |
 `ls` | "list" -<br>lists files and folders in the folder you are working in | `-a` - list hidden files too
 `touch <filename>` | creates a new file |
+`rm <filename>` | deletes a file |
 
 <h3>Setting Up Your Workspace</h3>
 
