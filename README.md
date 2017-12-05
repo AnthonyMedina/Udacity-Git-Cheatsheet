@@ -13,6 +13,7 @@ Command | Description | Options
 `ls` | "list" -<br>lists files and folders in the folder you are working in | `-a` - list hidden files too
 `touch <filename>` | creates a new file |
 `rm <filename>` | deletes a file |
+`mv <filename> <target folder name>` | moves a file |
 
 <h3>Setting Up Your Workspace</h3>
 
